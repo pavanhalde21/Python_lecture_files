@@ -1,0 +1,43 @@
+INFO:root:Entering function divide_function with args: (10, 5), kwargs: {}
+INFO:root:Exiting function divide_function with result: 2.0
+INFO:root:Entering function my_function with args: (2, 3), kwargs: {}
+INFO:root:Exiting function my_function with result: 5
+INFO:root:Entering function divide_function with args: (10, 5), kwargs: {}
+INFO:root:Exiting function divide_function with result: 2.0
+INFO:root:Entering function my_function with args: (2, 3), kwargs: {}
+INFO:root:Exiting function my_function with result: 5
+INFO:root:Entering function divide_function with args: (10, 5), kwargs: {}
+INFO:root:Exiting function divide_function with result: 2.0
+INFO:root:Entering function divide_function with args: (10, 5), kwargs: {}
+INFO:root:Exiting function divide_function with result: 2.0
+INFO:root:Entering function my_function with args: (2, 3), kwargs: {}
+INFO:root:Exiting function my_function with result: 5
+INFO:root:Entering function divide_function with args: (10, 5), kwargs: {}
+INFO:root:Exiting function divide_function with result: 2.0
+INFO:root:Entering function my_function with args: (2, 3), kwargs: {}
+INFO:root:Exiting function my_function with result: 5
+INFO:root:Entering function divide_function with args: (10, 5), kwargs: {}
+INFO:root:Exiting function divide_function with result: 2.0
+INFO:root:Entering function my_function with args: (2, 3), kwargs: {}
+INFO:root:Exiting function my_function with result: 5
+INFO:root:Entering function divide_function with args: (10, 5), kwargs: {}
+INFO:root:Exiting function divide_function with result: 2.0
+INFO:root:Entering function my_function with args: (2, 3), kwargs: {}
+INFO:root:Exiting function my_function with result: 5
+INFO:root:Entering function divide_function with args: (10, 5), kwargs: {}
+INFO:root:Exiting function divide_function with result: 2.0
+INFO:root:Division of 10 by 5 is 2.0
+INFO:root:Entering function my_function with args: (2, 3), kwargs: {}
+INFO:root:Exiting function my_function with result: 5
+INFO:root:Entering function divide_function with args: (10, 5), kwargs: {}
+INFO:root:Exiting function divide_function with result: 2.0
+INFO:root:Entering function my_function with args: (2, 0), kwargs: {}
+INFO:root:Exiting function my_function with result: 2
+INFO:root:Entering function my_function with args: (2, 0), kwargs: {}
+INFO:root:Exiting function my_function with result: 2
+INFO:root:Entering function divide_function with args: (10, 5), kwargs: {}
+INFO:root:Exiting function divide_function with result: 2.0
+INFO:root:Entering function divide_function with args: (10, 0), kwargs: {}
+ERROR:root:Error in function divide_function: pls enter the number greater than 0
+INFO:root:Entering function divide_function with args: (10, 0), kwargs: {}
+ERROR:root:Error in function divide_function: pls enter the number greater than 0
