@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="343cf6e7-6411-43c3-978e-864ff7f69f83" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/21. Decorator&amp;Generator .ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/21. Decorator&amp;Generator .ipynb" afterDir="false" />
@@ -50,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1754990947485</updated>
-      <workItem from="1754990948619" duration="482000" />
+      <workItem from="1754990948619" duration="1822000" />
     </task>
     <servers />
   </component>
